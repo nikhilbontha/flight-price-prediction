@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error, r2_score
 
-st.title("✈️ Flight Price Prediction App")
+st.title(" Flight Price Prediction App")
 
 # Step 1: Load Data directly (no upload)
 #df = pd.read_csv("Data_Train.csv", encoding="latin1")
